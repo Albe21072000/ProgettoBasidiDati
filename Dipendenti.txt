@@ -1,0 +1,9 @@
+﻿ID;Nome;Cognome;Codice Fiscale;Bilbioteca
+203;Giuseppe;Verdi;VRDGSP23MLD612QA;DIMAI-Ulisse DINI
+410;Gianni;Semproni;SMPGNN2138849220;DIMAI-Ulisse DINI
+412;Alberto;Azzurri;AZZBRT47584GDF4R;DIMAI-Ulisse DINI
+430;Luigi;Mario;MRALGI43928D123R;Scienze Economiche
+510;Laura;Nonci;DGKSRO38R58L181R;Scienze Economiche
+513;John;Salvi;MRCSVR08L19C351E;Scienze Economiche
+514;Nicola;Tesi;NICSRO38R58L181R;Scienze Tecnolgiche
+519;Ilario;Noci;ILASRO38R58L181R;Scienze Tecnolgiche
